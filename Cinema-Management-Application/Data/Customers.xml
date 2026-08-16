@@ -1,3 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Customers>
+  <Customer Id="1" Name="Nguyễn Ngọc Bảo Trân" Phone="09121111122" Email="tran@gmail.com" />
+  <Customer Id="2" Name="Nguyễn Ngọc Bảo Trân" Phone="09121111122" Email="tran@gmail.com" />
 </Customers>
