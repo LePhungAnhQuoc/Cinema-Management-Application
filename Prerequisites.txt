@@ -1,1 +1,0 @@
-link to .NET Framework 4.8 and any other system prerequisites (VC++ redistributables, local DB server, drivers).

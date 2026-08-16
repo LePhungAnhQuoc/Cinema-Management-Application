@@ -3,581 +3,550 @@
   <MovieSchedule Movie="MV2">
     <CinemaTypeSchedule CinemaType="Standard">
       <CinemaSchedule Cinema="S2">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA" />
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:00:00" />
-          <TimeSchedule Time="16:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:00:00" />
-          <TimeSchedule Time="16:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:30:00" />
           <TimeSchedule Time="13:30:00" />
           <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:00:00" />
-          <TimeSchedule Time="16:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA" />
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:00:00" />
-        </DateSchedule>
-      </CinemaSchedule>
-      <CinemaSchedule Cinema="S3">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:30:00" />
           <TimeSchedule Time="15:30:00" />
           <TimeSchedule Time="16:00:00" />
         </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="20/08/2026 1:52:03 CH" />
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:00:00" />
+          <TimeSchedule Time="16:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+        </DateSchedule>
+      </CinemaSchedule>
+      <CinemaSchedule Cinema="S3">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
         </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
+        <DateSchedule Date="17/08/2026 1:52:03 CH" />
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:00:00" />
+          <TimeSchedule Time="16:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
         </DateSchedule>
+        <DateSchedule Date="25/08/2026 1:52:03 CH" />
       </CinemaSchedule>
     </CinemaTypeSchedule>
     <CinemaTypeSchedule CinemaType="VIP">
       <CinemaSchedule Cinema="S1">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:30:00" />
+          <TimeSchedule Time="16:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
         </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="10:30:00" />
         </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
+        <DateSchedule Date="20/08/2026 1:52:03 CH" />
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:30:00" />
         </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="12:30:00" />
           <TimeSchedule Time="13:00:00" />
           <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:00:00" />
         </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
         </DateSchedule>
       </CinemaSchedule>
       <CinemaSchedule Cinema="V1">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:30:00" />
         </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA" />
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="13:00:00" />
           <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:00:00" />
-          <TimeSchedule Time="16:00:00" />
         </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:00:00" />
         </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:00:00" />
         </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:00:00" />
-          <TimeSchedule Time="16:30:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:00:00" />
         </DateSchedule>
+        <DateSchedule Date="25/08/2026 1:52:03 CH" />
       </CinemaSchedule>
     </CinemaTypeSchedule>
   </MovieSchedule>
   <MovieSchedule Movie="MV3">
     <CinemaTypeSchedule CinemaType="Standard">
       <CinemaSchedule Cinema="S2">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:00:00" />
           <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
           <TimeSchedule Time="14:30:00" />
           <TimeSchedule Time="15:30:00" />
+          <TimeSchedule Time="16:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:00:00" />
           <TimeSchedule Time="16:30:00" />
         </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:00:00" />
         </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:30:00" />
         </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:00:00" />
-          <TimeSchedule Time="16:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:30:00" />
-          <TimeSchedule Time="16:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:30:00" />
-        </DateSchedule>
+        <DateSchedule Date="25/08/2026 1:52:03 CH" />
       </CinemaSchedule>
       <CinemaSchedule Cinema="S3">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:00:00" />
           <TimeSchedule Time="13:30:00" />
           <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:30:00" />
+          <TimeSchedule Time="15:00:00" />
+          <TimeSchedule Time="16:00:00" />
         </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:30:00" />
           <TimeSchedule Time="13:00:00" />
           <TimeSchedule Time="14:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA" />
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA" />
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="15:00:00" />
+          <TimeSchedule Time="16:30:00" />
         </DateSchedule>
       </CinemaSchedule>
     </CinemaTypeSchedule>
     <CinemaTypeSchedule CinemaType="VIP">
       <CinemaSchedule Cinema="S1">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
+        <DateSchedule Date="16/08/2026 1:52:03 CH" />
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:00:00" />
         </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:00:00" />
           <TimeSchedule Time="13:00:00" />
           <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:30:00" />
-          <TimeSchedule Time="16:00:00" />
         </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:00:00" />
-          <TimeSchedule Time="16:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:30:00" />
-          <TimeSchedule Time="16:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA" />
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:00:00" />
-          <TimeSchedule Time="16:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="13:30:00" />
         </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="25/08/2026 1:52:03 CH" />
       </CinemaSchedule>
       <CinemaSchedule Cinema="V1">
-        <DateSchedule Date="16/08/2026 10:50:18 SA" />
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
         </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:30:00" />
         </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:00:00" />
           <TimeSchedule Time="13:00:00" />
           <TimeSchedule Time="14:00:00" />
         </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:30:00" />
         </DateSchedule>
       </CinemaSchedule>
     </CinemaTypeSchedule>
@@ -585,280 +554,297 @@
   <MovieSchedule Movie="MV7">
     <CinemaTypeSchedule CinemaType="Standard">
       <CinemaSchedule Cinema="S2">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
         </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:00:00" />
           <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
           <TimeSchedule Time="14:00:00" />
           <TimeSchedule Time="15:30:00" />
           <TimeSchedule Time="16:30:00" />
         </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:30:00" />
           <TimeSchedule Time="13:30:00" />
           <TimeSchedule Time="14:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:30:00" />
           <TimeSchedule Time="15:00:00" />
         </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:30:00" />
         </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:30:00" />
         </DateSchedule>
       </CinemaSchedule>
       <CinemaSchedule Cinema="S3">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="12:30:00" />
         </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="13:00:00" />
           <TimeSchedule Time="14:30:00" />
           <TimeSchedule Time="15:30:00" />
         </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:00:00" />
           <TimeSchedule Time="13:30:00" />
           <TimeSchedule Time="14:00:00" />
         </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:00:00" />
-          <TimeSchedule Time="16:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA" />
-        <DateSchedule Date="21/08/2026 10:50:18 SA" />
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
         </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
+        <DateSchedule Date="22/08/2026 1:52:03 CH" />
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:30:00" />
+          <TimeSchedule Time="16:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:30:00" />
         </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="10:00:00" />
         </DateSchedule>
       </CinemaSchedule>
     </CinemaTypeSchedule>
     <CinemaTypeSchedule CinemaType="VIP">
       <CinemaSchedule Cinema="S1">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="17/08/2026 1:52:03 CH" />
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:30:00" />
           <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:00:00" />
-          <TimeSchedule Time="16:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="14:30:00" />
           <TimeSchedule Time="15:30:00" />
-          <TimeSchedule Time="16:00:00" />
+          <TimeSchedule Time="16:30:00" />
         </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA" />
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:00:00" />
-          <TimeSchedule Time="16:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:30:00" />
           <TimeSchedule Time="13:30:00" />
           <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:00:00" />
+          <TimeSchedule Time="16:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:30:00" />
         </DateSchedule>
       </CinemaSchedule>
       <CinemaSchedule Cinema="V1">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
         </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
         </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="21/08/2026 1:52:03 CH" />
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:00:00" />
+          <TimeSchedule Time="16:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
           <TimeSchedule Time="14:00:00" />
           <TimeSchedule Time="15:30:00" />
           <TimeSchedule Time="16:00:00" />
         </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA" />
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="12:30:00" />
           <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:00:00" />
           <TimeSchedule Time="14:00:00" />
         </DateSchedule>
       </CinemaSchedule>
@@ -867,490 +853,491 @@
   <MovieSchedule Movie="MV4">
     <CinemaTypeSchedule CinemaType="Standard">
       <CinemaSchedule Cinema="S2">
-        <DateSchedule Date="16/08/2026 10:50:18 SA" />
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
+        <DateSchedule Date="16/08/2026 1:52:03 CH" />
+        <DateSchedule Date="17/08/2026 1:52:03 CH" />
+        <DateSchedule Date="18/08/2026 1:52:03 CH" />
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:00:00" />
           <TimeSchedule Time="13:00:00" />
           <TimeSchedule Time="14:00:00" />
           <TimeSchedule Time="15:00:00" />
           <TimeSchedule Time="16:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:30:00" />
+          <TimeSchedule Time="16:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
         </DateSchedule>
       </CinemaSchedule>
       <CinemaSchedule Cinema="S3">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:00:00" />
-          <TimeSchedule Time="16:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="10:30:00" />
         </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA" />
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
           <TimeSchedule Time="13:30:00" />
           <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:30:00" />
+          <TimeSchedule Time="16:00:00" />
         </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:00:00" />
           <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:30:00" />
+          <TimeSchedule Time="14:30:00" />
         </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:30:00" />
-          <TimeSchedule Time="16:00:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
         </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:00:00" />
           <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:30:00" />
-          <TimeSchedule Time="16:00:00" />
+          <TimeSchedule Time="14:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
         </DateSchedule>
       </CinemaSchedule>
     </CinemaTypeSchedule>
     <CinemaTypeSchedule CinemaType="VIP">
       <CinemaSchedule Cinema="S1">
-        <DateSchedule Date="16/08/2026 10:50:18 SA" />
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:00:00" />
         </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="18/08/2026 1:52:03 CH" />
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA" />
-        <DateSchedule Date="21/08/2026 10:50:18 SA" />
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:00:00" />
           <TimeSchedule Time="13:30:00" />
           <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:00:00" />
-          <TimeSchedule Time="16:00:00" />
+          <TimeSchedule Time="15:30:00" />
         </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA" />
-      </CinemaSchedule>
-      <CinemaSchedule Cinema="V1">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:30:00" />
         </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
+        <DateSchedule Date="22/08/2026 1:52:03 CH" />
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
         </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:00:00" />
-          <TimeSchedule Time="16:00:00" />
         </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
+        <DateSchedule Date="25/08/2026 1:52:03 CH" />
+      </CinemaSchedule>
+      <CinemaSchedule Cinema="V1">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:00:00" />
           <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:30:00" />
         </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA" />
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
+        <DateSchedule Date="18/08/2026 1:52:03 CH" />
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="20/08/2026 1:52:03 CH" />
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
         </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH" />
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:30:00" />
           <TimeSchedule Time="14:30:00" />
         </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA" />
       </CinemaSchedule>
     </CinemaTypeSchedule>
   </MovieSchedule>
   <MovieSchedule Movie="MV5">
     <CinemaTypeSchedule CinemaType="Standard">
       <CinemaSchedule Cinema="S2">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:00:00" />
           <TimeSchedule Time="13:30:00" />
           <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:00:00" />
         </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:00:00" />
         </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA" />
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="20/08/2026 1:52:03 CH" />
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
         </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
         </DateSchedule>
       </CinemaSchedule>
       <CinemaSchedule Cinema="S3">
-        <DateSchedule Date="16/08/2026 10:50:18 SA" />
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:00:00" />
         </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA" />
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:00:00" />
           <TimeSchedule Time="13:30:00" />
           <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:30:00" />
+          <TimeSchedule Time="15:00:00" />
           <TimeSchedule Time="16:00:00" />
         </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="20/08/2026 1:52:03 CH" />
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
         </DateSchedule>
       </CinemaSchedule>
     </CinemaTypeSchedule>
     <CinemaTypeSchedule CinemaType="VIP">
       <CinemaSchedule Cinema="S1">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
         </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:30:00" />
         </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
         </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA" />
-        <DateSchedule Date="21/08/2026 10:50:18 SA" />
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:30:00" />
-          <TimeSchedule Time="16:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="12:30:00" />
           <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:00:00" />
         </DateSchedule>
-      </CinemaSchedule>
-      <CinemaSchedule Cinema="V1">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
         </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="09:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:00:00" />
           <TimeSchedule Time="13:00:00" />
           <TimeSchedule Time="14:00:00" />
           <TimeSchedule Time="15:00:00" />
+          <TimeSchedule Time="16:00:00" />
         </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:30:00" />
         </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
+        <DateSchedule Date="25/08/2026 1:52:03 CH" />
+      </CinemaSchedule>
+      <CinemaSchedule Cinema="V1">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:30:00" />
           <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:30:00" />
         </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:30:00" />
-          <TimeSchedule Time="16:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA" />
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
+        <DateSchedule Date="18/08/2026 1:52:03 CH" />
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:30:00" />
+          <TimeSchedule Time="12:00:00" />
         </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="22/08/2026 1:52:03 CH" />
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="13:30:00" />
         </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
         </DateSchedule>
       </CinemaSchedule>
     </CinemaTypeSchedule>
@@ -1358,281 +1345,302 @@
   <MovieSchedule Movie="MV6">
     <CinemaTypeSchedule CinemaType="Standard">
       <CinemaSchedule Cinema="S2">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
         </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:00:00" />
-          <TimeSchedule Time="16:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
         </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:30:00" />
           <TimeSchedule Time="13:30:00" />
           <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
           <TimeSchedule Time="15:00:00" />
         </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:30:00" />
         </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA" />
-        <DateSchedule Date="24/08/2026 10:50:18 SA" />
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:30:00" />
           <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:30:00" />
-          <TimeSchedule Time="16:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:30:00" />
         </DateSchedule>
       </CinemaSchedule>
       <CinemaSchedule Cinema="S3">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:30:00" />
         </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:30:00" />
-          <TimeSchedule Time="16:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:00:00" />
           <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:00:00" />
-          <TimeSchedule Time="16:00:00" />
         </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:00:00" />
+          <TimeSchedule Time="16:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:30:00" />
+          <TimeSchedule Time="16:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
         </DateSchedule>
       </CinemaSchedule>
     </CinemaTypeSchedule>
     <CinemaTypeSchedule CinemaType="VIP">
       <CinemaSchedule Cinema="S1">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:30:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:00:00" />
           <TimeSchedule Time="16:30:00" />
         </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA" />
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="19/08/2026 1:52:03 CH" />
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:30:00" />
           <TimeSchedule Time="13:30:00" />
         </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA" />
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:00:00" />
           <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:00:00" />
         </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="09:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:30:00" />
           <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:30:00" />
-          <TimeSchedule Time="16:00:00" />
         </DateSchedule>
       </CinemaSchedule>
       <CinemaSchedule Cinema="V1">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:00:00" />
-          <TimeSchedule Time="16:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA" />
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:30:00" />
         </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
         </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:30:00" />
           <TimeSchedule Time="13:30:00" />
           <TimeSchedule Time="14:30:00" />
           <TimeSchedule Time="15:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="16:30:00" />
         </DateSchedule>
       </CinemaSchedule>
     </CinemaTypeSchedule>
@@ -1640,774 +1648,719 @@
   <MovieSchedule Movie="MV8">
     <CinemaTypeSchedule CinemaType="Standard">
       <CinemaSchedule Cinema="S2">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA" />
-        <DateSchedule Date="19/08/2026 10:50:18 SA" />
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:00:00" />
           <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:00:00" />
         </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
         </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
         </DateSchedule>
       </CinemaSchedule>
       <CinemaSchedule Cinema="S3">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
+        <DateSchedule Date="16/08/2026 1:52:03 CH" />
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="18/08/2026 1:52:03 CH" />
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:30:00" />
           <TimeSchedule Time="14:00:00" />
           <TimeSchedule Time="15:30:00" />
         </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
         </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:30:00" />
           <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:00:00" />
-          <TimeSchedule Time="16:30:00" />
         </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
+        <DateSchedule Date="22/08/2026 1:52:03 CH" />
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH" />
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:00:00" />
         </DateSchedule>
       </CinemaSchedule>
     </CinemaTypeSchedule>
     <CinemaTypeSchedule CinemaType="VIP">
       <CinemaSchedule Cinema="S1">
-        <DateSchedule Date="16/08/2026 10:50:18 SA" />
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:30:00" />
         </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
         </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:00:00" />
           <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="14:00:00" />
           <TimeSchedule Time="15:30:00" />
           <TimeSchedule Time="16:30:00" />
         </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:00:00" />
           <TimeSchedule Time="13:00:00" />
           <TimeSchedule Time="14:30:00" />
           <TimeSchedule Time="15:30:00" />
           <TimeSchedule Time="16:30:00" />
         </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
         </DateSchedule>
       </CinemaSchedule>
       <CinemaSchedule Cinema="V1">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:30:00" />
         </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:00:00" />
+          <TimeSchedule Time="16:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:00:00" />
         </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="21/08/2026 1:52:03 CH" />
+        <DateSchedule Date="22/08/2026 1:52:03 CH" />
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:30:00" />
           <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:00:00" />
         </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA" />
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:30:00" />
-          <TimeSchedule Time="16:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
         </DateSchedule>
+        <DateSchedule Date="25/08/2026 1:52:03 CH" />
       </CinemaSchedule>
     </CinemaTypeSchedule>
   </MovieSchedule>
   <MovieSchedule Movie="MV9">
     <CinemaTypeSchedule CinemaType="Standard">
       <CinemaSchedule Cinema="S2">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:00:00" />
-          <TimeSchedule Time="16:30:00" />
         </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
+        <DateSchedule Date="19/08/2026 1:52:03 CH" />
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:00:00" />
+          <TimeSchedule Time="16:00:00" />
         </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:00:00" />
+          <TimeSchedule Time="13:00:00" />
         </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA" />
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="09:00:00" />
         </DateSchedule>
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="25/08/2026 1:52:03 CH" />
       </CinemaSchedule>
       <CinemaSchedule Cinema="S3">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:00:00" />
-          <TimeSchedule Time="16:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:30:00" />
         </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA" />
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:00:00" />
         </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
+        <DateSchedule Date="19/08/2026 1:52:03 CH" />
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:30:00" />
           <TimeSchedule Time="13:00:00" />
           <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:30:00" />
+          <TimeSchedule Time="15:00:00" />
         </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:00:00" />
           <TimeSchedule Time="13:30:00" />
           <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:30:00" />
         </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:00:00" />
+          <TimeSchedule Time="16:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
         </DateSchedule>
       </CinemaSchedule>
     </CinemaTypeSchedule>
     <CinemaTypeSchedule CinemaType="VIP">
       <CinemaSchedule Cinema="S1">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
         </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:00:00" />
           <TimeSchedule Time="13:00:00" />
           <TimeSchedule Time="14:00:00" />
         </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA" />
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:30:00" />
         </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:00:00" />
         </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:30:00" />
         </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA" />
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:30:00" />
+          <TimeSchedule Time="16:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:30:00" />
+          <TimeSchedule Time="16:30:00" />
+        </DateSchedule>
       </CinemaSchedule>
       <CinemaSchedule Cinema="V1">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:30:00" />
           <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
         </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:00:00" />
+          <TimeSchedule Time="16:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:30:00" />
           <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:00:00" />
         </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:30:00" />
         </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
+        <DateSchedule Date="22/08/2026 1:52:03 CH" />
+        <DateSchedule Date="23/08/2026 1:52:03 CH" />
+        <DateSchedule Date="24/08/2026 1:52:03 CH" />
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
         </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA" />
-        <DateSchedule Date="25/08/2026 10:50:18 SA" />
       </CinemaSchedule>
     </CinemaTypeSchedule>
   </MovieSchedule>
   <MovieSchedule Movie="MV10">
     <CinemaTypeSchedule CinemaType="Standard">
       <CinemaSchedule Cinema="S2">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="17/08/2026 1:52:03 CH" />
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
         </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="23/08/2026 1:52:03 CH" />
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+        </DateSchedule>
+      </CinemaSchedule>
+      <CinemaSchedule Cinema="S3">
+        <DateSchedule Date="16/08/2026 1:52:03 CH" />
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
           <TimeSchedule Time="13:30:00" />
           <TimeSchedule Time="14:00:00" />
           <TimeSchedule Time="15:30:00" />
         </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:00:00" />
-          <TimeSchedule Time="16:30:00" />
-        </DateSchedule>
-      </CinemaSchedule>
-      <CinemaSchedule Cinema="S3">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
         </DateSchedule>
       </CinemaSchedule>
     </CinemaTypeSchedule>
     <CinemaTypeSchedule CinemaType="VIP">
       <CinemaSchedule Cinema="S1">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:00:00" />
-        </DateSchedule>
-      </CinemaSchedule>
-      <CinemaSchedule Cinema="V1">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
           <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="14:30:00" />
           <TimeSchedule Time="15:00:00" />
+          <TimeSchedule Time="16:30:00" />
         </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA" />
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:30:00" />
           <TimeSchedule Time="13:30:00" />
         </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="23/08/2026 1:52:03 CH" />
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:30:00" />
+        </DateSchedule>
+      </CinemaSchedule>
+      <CinemaSchedule Cinema="V1">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="17/08/2026 1:52:03 CH" />
+        <DateSchedule Date="18/08/2026 1:52:03 CH" />
+        <DateSchedule Date="19/08/2026 1:52:03 CH" />
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
         </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:30:00" />
         </DateSchedule>
       </CinemaSchedule>
     </CinemaTypeSchedule>
@@ -2415,253 +2368,302 @@
   <MovieSchedule Movie="MV11">
     <CinemaTypeSchedule CinemaType="Standard">
       <CinemaSchedule Cinema="S2">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
         </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:00:00" />
+          <TimeSchedule Time="16:30:00" />
         </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
+        <DateSchedule Date="21/08/2026 1:52:03 CH" />
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
         </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-          <TimeSchedule Time="12:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="12:00:00" />
           <TimeSchedule Time="13:30:00" />
         </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:30:00" />
         </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+        </DateSchedule>
+      </CinemaSchedule>
+      <CinemaSchedule Cinema="S3">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:30:00" />
+          <TimeSchedule Time="16:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:00:00" />
           <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:30:00" />
-        </DateSchedule>
-      </CinemaSchedule>
-      <CinemaSchedule Cinema="S3">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="14:00:00" />
           <TimeSchedule Time="15:30:00" />
-          <TimeSchedule Time="16:30:00" />
         </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA" />
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:30:00" />
           <TimeSchedule Time="13:30:00" />
           <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:00:00" />
+          <TimeSchedule Time="16:00:00" />
         </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:00:00" />
         </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:30:00" />
         </DateSchedule>
       </CinemaSchedule>
     </CinemaTypeSchedule>
     <CinemaTypeSchedule CinemaType="VIP">
       <CinemaSchedule Cinema="S1">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
         </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
         </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:30:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:30:00" />
           <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
           <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:00:00" />
         </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
+        <DateSchedule Date="21/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:30:00" />
           <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:30:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:30:00" />
         </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:00:00" />
+          <TimeSchedule Time="16:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:30:00" />
-          <TimeSchedule Time="15:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA" />
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
           <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:00:00" />
         </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:00:00" />
           <TimeSchedule Time="12:00:00" />
           <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:30:00" />
+          <TimeSchedule Time="14:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
         </DateSchedule>
       </CinemaSchedule>
       <CinemaSchedule Cinema="V1">
-        <DateSchedule Date="16/08/2026 10:50:18 SA">
+        <DateSchedule Date="16/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:00:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="17/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="18/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="19/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:00:00" />
-          <TimeSchedule Time="14:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="20/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:30:00" />
-          <TimeSchedule Time="09:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="21/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="22/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
           <TimeSchedule Time="10:30:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:00:00" />
-          <TimeSchedule Time="13:30:00" />
-          <TimeSchedule Time="14:00:00" />
-          <TimeSchedule Time="15:30:00" />
-          <TimeSchedule Time="16:30:00" />
-        </DateSchedule>
-        <DateSchedule Date="23/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:00:00" />
-        </DateSchedule>
-        <DateSchedule Date="24/08/2026 10:50:18 SA">
-          <TimeSchedule Time="08:00:00" />
-          <TimeSchedule Time="09:30:00" />
-          <TimeSchedule Time="10:00:00" />
           <TimeSchedule Time="11:30:00" />
           <TimeSchedule Time="12:30:00" />
           <TimeSchedule Time="13:30:00" />
           <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="17/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="18/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="19/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:30:00" />
+          <TimeSchedule Time="15:30:00" />
+          <TimeSchedule Time="16:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="20/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:00:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:30:00" />
           <TimeSchedule Time="15:30:00" />
         </DateSchedule>
-        <DateSchedule Date="25/08/2026 10:50:18 SA">
+        <DateSchedule Date="21/08/2026 1:52:03 CH" />
+        <DateSchedule Date="22/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:00:00" />
+          <TimeSchedule Time="11:00:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="23/08/2026 1:52:03 CH">
           <TimeSchedule Time="08:00:00" />
           <TimeSchedule Time="09:00:00" />
           <TimeSchedule Time="10:00:00" />
-          <TimeSchedule Time="11:00:00" />
-          <TimeSchedule Time="12:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:00:00" />
+          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:30:00" />
+        </DateSchedule>
+        <DateSchedule Date="24/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:30:00" />
+          <TimeSchedule Time="09:30:00" />
+          <TimeSchedule Time="10:30:00" />
+          <TimeSchedule Time="11:30:00" />
+          <TimeSchedule Time="12:00:00" />
+          <TimeSchedule Time="13:30:00" />
+          <TimeSchedule Time="14:00:00" />
+          <TimeSchedule Time="15:30:00" />
+          <TimeSchedule Time="16:00:00" />
+        </DateSchedule>
+        <DateSchedule Date="25/08/2026 1:52:03 CH">
+          <TimeSchedule Time="08:00:00" />
         </DateSchedule>
       </CinemaSchedule>
     </CinemaTypeSchedule>

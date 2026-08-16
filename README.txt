@@ -1,3 +1,10 @@
-Hướng dẫn từ A-Z của việc download từ github xuống đến phần mở được file exe
+I. System requirements:
+1. .NET Framework 4.8 (Available on Window 10)
 
- run instructions, credentials, and known requirements.
+
+II. How to run my project:
+1/ Please run file .exe in project
+2/ Instruction video: https://www.loom.com/share/79ed290d2d0841cebe6c719efd0f0222
+3/ Accounts:
++ NhatMinh - admin (admin role)
++ BaoTran - tran123 (cashier role)
