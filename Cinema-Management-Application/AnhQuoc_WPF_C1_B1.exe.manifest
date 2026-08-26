@@ -49,7 +49,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>LRzrUaF4HlvdGuGlEjxMd5LnE5lo19Elc81Tl75Dyvs=</dsig:DigestValue>
+        <dsig:DigestValue>Ut0iqmsF8aw41kZp7XBtAzTkjeDr/+e7R1IZKWXrHJY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -590,6 +590,24 @@
       <dsig:DigestValue>uNMNojCDD2zFNlhPMTgD6BcWyp88A2FTbYgYJrf375w=</dsig:DigestValue>
     </hash>
   </file>
+  <file name="Assets\Movies\AnhQuoc.jpg.jpg" size="16514">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>CbmF5EWFW3AmbfgPEbjNMujpOeyZXn5P6fJlBIMMUqY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Assets\Movies\Doraemon và Nobita 2.jpg" size="34898">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>SS5SosgIDGOYdDVMAdT8avwo0swoCan0vb9Ai8kUdAI=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="Assets\Movies\Doraemon và Nobita.jpg" size="54802">
     <hash>
       <dsig:Transforms>
@@ -597,6 +615,87 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>QYOot79AOqlWw49UtG1izaTLOF6JeFgNSzNGWCS3o+I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Assets\Movies\MV10.jpg" size="809336">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>HZIX3hDUKYoo5JPKFR/6jSpSSxtJjNrxt1l1vtXII44=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Assets\Movies\MV11.jpg" size="1806777">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>gr81mW09QclK5QTYA9jDfLwoyxz2WBLqn3qEDNvnpOM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Assets\Movies\MV8.jpg" size="1233299">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>uRuQYMFkdXfbyQpXAkMKgf0vwBHOdbaVZMLQxfKq914=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Assets\Movies\MV9.jpg" size="759598">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>9E5CO6aS2ZsuWFa2sYRVf/ZIsiEtWs2726qsXQxpD+U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Assets\Movies\Thỏ ơi.jpg" size="11720">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>XfwUzOVEbTmv2P8AquZssCp9O7hoKGIhSSU29vNoVdI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Assets\Movies\portrait-1.jpg" size="7702">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>DG9mHxRC3IcgguT83KybPrKGJbDuG1Uv9ZcGVe5GLqI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Assets\Movies\portrait-2.jpg" size="5170">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>EgDN0O5UPwAQA3GE2lk6MORuQKVPbWD3Un7+jjI5yxM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Assets\Movies\portrait-6.jpg" size="33214">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>2/44qOa/IQcbdEZEPLoChbsABKyDkq4F7FhhHIqWEBY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Assets\Movies\poster1.png" size="19842">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>O78wOItWLGXbzGZ2zGfrdrIzuMWH5eq4DEaaikg/494=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Assets\Movies\poster2.png" size="14704">
@@ -615,6 +714,24 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>Y5b4eNXV79pkd+yFa7tLX1o6aRG7ejmMSWGjdelwwYQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Assets\Movies\poster4.png" size="24890">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>t8sBlzkaMhnz5yErTLb1um8cKjGz32nKEvh+cZBffl8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Assets\Movies\poster5.png" size="26888">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>lq50gvPjLJiU4HgdAEKtysoEKndZUlwRkVDd9d6z/mE=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Assets\Others\CinemaIcon.png" size="40086">
@@ -887,22 +1004,22 @@
       <dsig:DigestValue>A/7YUJQ6UW8iqJagkTOzdKA/z1CigDDBpDYJeufqG48=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Data\Accounts.xml" size="5584" writeableType="applicationData">
+  <file name="Data\Accounts.xml" size="5483" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>UDKiF5l0OsuaZxa0pv2FS8hIH0bxBFOdho2aZqr68xM=</dsig:DigestValue>
+      <dsig:DigestValue>L0Ttj4Nt8wkGAZWhr3GzCGL4xVkGePFqicpPqAi1GvU=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Data\Cinemas.xml" size="55513" writeableType="applicationData">
+  <file name="Data\Cinemas.xml" size="55506" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>v79IZg+3nDcmw8xUzfhnWMv7xhln73h57Z+P6Jn/bog=</dsig:DigestValue>
+      <dsig:DigestValue>x9oZofaQxwmPCzautAKSEIhghj+p0B3zJXkhvPDAVK0=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Data\Customers.xml" size="68" writeableType="applicationData">
@@ -995,13 +1112,13 @@
       <dsig:DigestValue>Rd0cYYQeZDwrGsik0rUMU50VqR7ya3caC+LjelaCU2U=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Data\Movies.xml" size="1845" writeableType="applicationData">
+  <file name="Data\Movies.xml" size="1792" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>uO60/A7mef+hBTH4uV8p9P5gURNmtUUMIArbnPeI34s=</dsig:DigestValue>
+      <dsig:DigestValue>t2OTjQXTghjKtHhpFGhlSBiPQj/F0i15avw9sm1sgb4=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Data\OrderDetails.xml" size="125" writeableType="applicationData">

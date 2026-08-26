@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Movies>
-  <Movie Id="MV2" Name="Nobita và Khủng Long Bạo Chúa" Genres="G5 G7" ReleaseDate="23/04/2025" RunningTime="80" Rated="P" Description="" UrlImage="Doraemon và Nobita 2.jpg" UrlTrailer="video 2.mp4" />
-  <Movie Id="MV3" Name="Bài học đáng đời" Genres="G1 G3" ReleaseDate="12/03/2026" RunningTime="80" Rated="T13" Description="" UrlImage="poster1.png" UrlTrailer="" />
-  <Movie Id="MV7" Name="Thỏ ơi" Genres="G3 G5" ReleaseDate="13/05/2026" RunningTime="70" Rated="T13" Description="" UrlImage="poster2.png" UrlTrailer="" />
-  <Movie Id="MV4" Name="Đặc vụ kim tái khởi động" Genres="G1 G3" ReleaseDate="15/07/2026" RunningTime="60" Rated="T13" Description="" UrlImage="poster3.png" UrlTrailer="" />
-  <Movie Id="MV5" Name="Thế thần Ngự Kí Sư" Genres="G1 G2 G3 G4 G5 G6 G7" ReleaseDate="22/11/2026" RunningTime="60" Rated="T13" Description="" UrlImage="poster4.png" UrlTrailer="" />
-  <Movie Id="MV6" Name="Truy tìm Long Diên Hương" Genres="G1 G3" ReleaseDate="11/01/2026" RunningTime="78" Rated="T13" Description="" UrlImage="poster5.png" UrlTrailer="" />
-  <Movie Id="MV8" Name="Hành Trình Về Nhà" Genres="G2 G5" ReleaseDate="29/07/2026" RunningTime="95" Rated="P" Description="" UrlImage="MV8.jpg" UrlTrailer="" />
-  <Movie Id="MV9" Name="Bóng Đêm Thức Giấc" Genres="G1 G4" ReleaseDate="29/07/2026" RunningTime="105" Rated="T18" Description="" UrlImage="MV9.jpg" UrlTrailer="" />
-  <Movie Id="MV10" Name="Liên Minh Siêu Quậy" Genres="G3 G5 G7" ReleaseDate="20/12/2026" RunningTime="88" Rated="P" Description="" UrlImage="MV10.jpg" UrlTrailer="" />
-  <Movie Id="MV11" Name="Cơn Bão Vũ Trụ" Genres="G1 G6" ReleaseDate="15/01/2027" RunningTime="110" Rated="T16" Description="" UrlImage="MV11.jpg" UrlTrailer="" />
+  <Movie Id="MV2" Name="Doraemon and Nobita: The Tyrant Dinosaur" Genres="G5 G7" ReleaseDate="23/04/2025" RunningTime="80" Rated="P" Description="" UrlImage="Doraemon va Nobita 2.jpg" UrlTrailer="video 2.mp4" />
+  <Movie Id="MV3" Name="A Well-Deserved Lesson" Genres="G1 G3" ReleaseDate="12/03/2026" RunningTime="80" Rated="T13" Description="" UrlImage="poster1.png" UrlTrailer="" />
+  <Movie Id="MV7" Name="Oh Rabbit" Genres="G3 G5" ReleaseDate="13/05/2026" RunningTime="70" Rated="T13" Description="" UrlImage="poster2.png" UrlTrailer="" />
+  <Movie Id="MV4" Name="Agent Kim: Reboot" Genres="G1 G3" ReleaseDate="15/07/2026" RunningTime="60" Rated="T13" Description="" UrlImage="poster3.png" UrlTrailer="" />
+  <Movie Id="MV5" Name="The Divine Chronicle Master" Genres="G1 G2 G3 G4 G5 G6 G7" ReleaseDate="22/11/2026" RunningTime="60" Rated="T13" Description="" UrlImage="poster4.png" UrlTrailer="" />
+  <Movie Id="MV6" Name="Quest for Long Dien Huong" Genres="G1 G3" ReleaseDate="11/01/2026" RunningTime="78" Rated="T13" Description="" UrlImage="poster5.png" UrlTrailer="" />
+  <Movie Id="MV8" Name="Journey Home" Genres="G2 G5" ReleaseDate="29/07/2026" RunningTime="95" Rated="P" Description="" UrlImage="MV8.jpg" UrlTrailer="" />
+  <Movie Id="MV9" Name="Night Awakening" Genres="G1 G4" ReleaseDate="29/07/2026" RunningTime="105" Rated="T18" Description="" UrlImage="MV9.jpg" UrlTrailer="" />
+  <Movie Id="MV10" Name="Mischief League" Genres="G3 G5 G7" ReleaseDate="20/12/2026" RunningTime="88" Rated="P" Description="" UrlImage="MV10.jpg" UrlTrailer="" />
+  <Movie Id="MV11" Name="Cosmic Storm" Genres="G1 G6" ReleaseDate="15/01/2027" RunningTime="110" Rated="T16" Description="" UrlImage="MV11.jpg" UrlTrailer="" />
 </Movies>

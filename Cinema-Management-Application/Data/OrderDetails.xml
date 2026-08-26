@@ -1,14 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <OrderDetails>
   <OrderDetail Id="1" IdOrder="17" SeatId="E4" />
-  <OrderDetail Id="fd3b58e3-b164-4cfa-8f9d-7ae1ca71491f" IdOrder="1" SeatId="C6" />
-  <OrderDetail Id="8cda80b4-81e0-4d86-8ff9-77796e0ca65d" IdOrder="1" SeatId="C7" />
-  <OrderDetail Id="ba516713-6434-409e-ab98-f3e39bde3d3a" IdOrder="1" SeatId="D7" />
-  <OrderDetail Id="255d9be9-3ffd-4c0d-9b3d-5bbcdf6bd653" IdOrder="1" SeatId="D6" />
-  <OrderDetail Id="89e5c2ca-67c8-42e4-8ab0-66e39dbccb09" IdOrder="2" SeatId="D5" />
-  <OrderDetail Id="d3f3b132-0d19-4722-88fb-e3a0815e10f4" IdOrder="2" SeatId="D6" />
-  <OrderDetail Id="2e7c3b25-aa5c-410d-a15a-b6432d3894c3" IdOrder="2" SeatId="D7" />
-  <OrderDetail Id="135712b3-942c-4314-900a-34978ea7a130" IdOrder="2" SeatId="E7" />
-  <OrderDetail Id="cb4ebd77-f399-462a-8b99-53a38764ae4c" IdOrder="2" SeatId="E6" />
-  <OrderDetail Id="96df5a30-3598-4c98-8a91-78fc82916347" IdOrder="2" SeatId="E5" />
 </OrderDetails>
