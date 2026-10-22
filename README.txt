@@ -4,7 +4,7 @@ I. System requirements:
 
 II. How to run my project:
 1/ Please run file .exe in project
-2/ Instruction video: https://www.loom.com/share/79ed290d2d0841cebe6c719efd0f0222
+2/ Instruction video: https://youtu.be/2atFfqFfY_Q
 3/ Accounts:
 + NhatMinh - admin (admin role)
 + BaoTran - tran123 (cashier role)
